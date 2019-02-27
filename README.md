@@ -1,7 +1,3 @@
 # zghcnzx
-zhougonghai 15858865896
-huangbaoyou 13858798841
-MyLocation
-hello word
-it is branche not the mast
-test deskd
+周功孩,15858865896
+黄宝友,13858798841
