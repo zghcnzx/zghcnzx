@@ -1,5 +1,5 @@
 # zghcnzx
-zhough_wz,zhougonghai,zhougonghai
+功孩,功孩,功孩
 huangby_wz,huangbaoyou,huangbaoyou
 ces,ceshi,ceshi
 pingg_wz,pingguo,pingguo
