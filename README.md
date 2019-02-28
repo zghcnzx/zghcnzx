@@ -1,8 +1,4 @@
 # zghcnzx
-功孩,功孩,功孩
-huangby_wz,huangbaoyou,huangbaoyou
+周功孩,周功孩,54546455768243
+黄宝友,黄宝友,87658392834243
 ces,ceshi,ceshi
-pingg_wz,pingguo,pingguo
-zhough_wz,6599623552,6599623552
-wangyj_wz,8251242635,8251242635
-zhenj_wz,7066288341,7066288341
